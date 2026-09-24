@@ -9,27 +9,85 @@ Currently exploring **AI/ML, LLM applications, AI agents, and MCP**.
 
 ---
 
-## 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
-### Languages
-JavaScript · TypeScript · Python · SQL · C
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br>
+      <b>JavaScript</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/><br>
+      <b>TypeScript</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br>
+      <b>Python</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/><br>
+      <b>SQL</b>
+    </td>
+  </tr>
 
-### Frontend
-React · Next.js · Tailwind CSS · Redux
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br>
+      <b>React</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/><br>
+      <b>Next.js</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/><br>
+      <b>Tailwind</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45"/><br>
+      <b>Redux</b>
+    </td>
+  </tr>
 
-### Backend
-Node.js · Express.js · REST APIs · Prisma
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br>
+      <b>Node.js</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/><br>
+      <b>Express</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45"/><br>
+      <b>Prisma</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/><br>
+      <b>MongoDB</b>
+    </td>
+  </tr>
 
-### Databases
-PostgreSQL · MongoDB · Neon
-
-### Cloud & DevOps
-AWS · EC2 · S3 · CloudFront · Route 53 · Vercel
-
-### AI
-Python · Machine Learning · LLM Applications · AI Agents · MCP
-
----
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="55"/><br>
+      <b>AWS</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45"/><br>
+      <b>Vercel</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br>
+      <b>Git</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/><br>
+      <b>GitHub</b>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 What I'm Building
 
