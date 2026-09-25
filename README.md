@@ -59,10 +59,10 @@ Currently exploring **AI/ML, LLM applications, AI agents, and MCP**.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/><br>
       <b>Express</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45"/><br>
-      <b>Prisma</b>
-    </td>
+   <td align="center" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/><br>
+  <b>PostgreSQL</b>
+</td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/><br>
       <b>MongoDB</b>
@@ -94,27 +94,20 @@ Currently exploring **AI/ML, LLM applications, AI agents, and MCP**.
 - 🌐 Full-stack web applications
 - 📱 Mobile applications
 - 🤖 AI-powered tools and agents
-- 🧠 AI/ML projects
+- 🧠 AI integrated systems
 
 ---
 
-## 🌱 Currently Learning
+## 🌱Expanding Into
 
-- Machine Learning
+- AI powered systems
 - LLM application development
 - AI Agents
 - MCP
 - RAG
 - System Design
-- Data Structures & Algorithms
 
 ---
-
-## 🤝 Connect
-
-🌐 Portfolio: [rajanshrestha1.com.np](https://rajanshrestha1.com.np)
-
-💼 LinkedIn: [Rajan Shrestha](https://www.linkedin.com/in/rajan-shrestha-1624a1224/)
 
 <!--
 **Rajan123stha/Rajan123stha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
